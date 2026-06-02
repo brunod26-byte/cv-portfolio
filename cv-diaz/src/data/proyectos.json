@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "nombre": "Sistema Inmobiliario",
+    "descripcion": "Sistema realizado en React",
+    "tecnologias": ["React", "CSS","Javascript", "MySQL"]
+  },
+  {
+    "id": 2,
+    "nombre": "CV Portafolio",
+    "descripcion": "Portafolio personal",
+    "tecnologias": ["React", "CSS"]
+  }
+]
